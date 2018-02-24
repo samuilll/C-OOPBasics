@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\bin\Debug\netcoreapp2.0\Task01RhombusOfStars.deps.json
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\bin\Debug\netcoreapp2.0\Task01RhombusOfStars.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\bin\Debug\netcoreapp2.0\Task01RhombusOfStars.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\bin\Debug\netcoreapp2.0\Task01RhombusOfStars.dll
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\bin\Debug\netcoreapp2.0\Task01RhombusOfStars.pdb
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\obj\Debug\netcoreapp2.0\Task01RhombusOfStars.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\obj\Debug\netcoreapp2.0\Task01RhombusOfStars.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\obj\Debug\netcoreapp2.0\Task01RhombusOfStars.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\obj\Debug\netcoreapp2.0\Task01RhombusOfStars.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\obj\Debug\netcoreapp2.0\Task01RhombusOfStars.dll
+C:\C-Fundamentals\C-OOPBasics\02WorkingWithAbstractionsLab\Task01RhombusOfStars\obj\Debug\netcoreapp2.0\Task01RhombusOfStars.pdb

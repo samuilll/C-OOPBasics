@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\bin\Debug\netcoreapp2.0\Task06FootballTeamGenerator.deps.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\bin\Debug\netcoreapp2.0\Task06FootballTeamGenerator.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\bin\Debug\netcoreapp2.0\Task06FootballTeamGenerator.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\bin\Debug\netcoreapp2.0\Task06FootballTeamGenerator.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\bin\Debug\netcoreapp2.0\Task06FootballTeamGenerator.pdb
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\obj\Debug\netcoreapp2.0\Task06FootballTeamGenerator.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\obj\Debug\netcoreapp2.0\Task06FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\obj\Debug\netcoreapp2.0\Task06FootballTeamGenerator.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\obj\Debug\netcoreapp2.0\Task06FootballTeamGenerator.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\obj\Debug\netcoreapp2.0\Task06FootballTeamGenerator.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task06FootballTeamGenerator\obj\Debug\netcoreapp2.0\Task06FootballTeamGenerator.pdb

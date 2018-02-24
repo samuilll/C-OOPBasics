@@ -1,0 +1,7 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\bin\Debug\Task02BookShop.exe.config
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\bin\Debug\Task02BookShop.exe
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\bin\Debug\Task02BookShop.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\obj\Debug\Task02BookShop.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\obj\Debug\Task02BookShop.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\obj\Debug\Task02BookShop.exe
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task02BookShop\obj\Debug\Task02BookShop.pdb

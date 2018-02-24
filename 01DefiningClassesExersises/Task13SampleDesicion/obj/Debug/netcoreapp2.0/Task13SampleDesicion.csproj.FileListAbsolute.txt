@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\bin\Debug\netcoreapp2.0\Task13SampleDesicion.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\bin\Debug\netcoreapp2.0\Task13SampleDesicion.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\bin\Debug\netcoreapp2.0\Task13SampleDesicion.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\bin\Debug\netcoreapp2.0\Task13SampleDesicion.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\bin\Debug\netcoreapp2.0\Task13SampleDesicion.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\obj\Debug\netcoreapp2.0\Task13SampleDesicion.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\obj\Debug\netcoreapp2.0\Task13SampleDesicion.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\obj\Debug\netcoreapp2.0\Task13SampleDesicion.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\obj\Debug\netcoreapp2.0\Task13SampleDesicion.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\obj\Debug\netcoreapp2.0\Task13SampleDesicion.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13SampleDesicion\obj\Debug\netcoreapp2.0\Task13SampleDesicion.pdb

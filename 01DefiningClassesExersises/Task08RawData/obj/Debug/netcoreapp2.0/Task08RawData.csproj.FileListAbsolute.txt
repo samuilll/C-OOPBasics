@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\bin\Debug\netcoreapp2.0\Task08RawData.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\bin\Debug\netcoreapp2.0\Task08RawData.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\bin\Debug\netcoreapp2.0\Task08RawData.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\bin\Debug\netcoreapp2.0\Task08RawData.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\bin\Debug\netcoreapp2.0\Task08RawData.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\obj\Debug\netcoreapp2.0\Task08RawData.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\obj\Debug\netcoreapp2.0\Task08RawData.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\obj\Debug\netcoreapp2.0\Task08RawData.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\obj\Debug\netcoreapp2.0\Task08RawData.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\obj\Debug\netcoreapp2.0\Task08RawData.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task08RawData\obj\Debug\netcoreapp2.0\Task08RawData.pdb

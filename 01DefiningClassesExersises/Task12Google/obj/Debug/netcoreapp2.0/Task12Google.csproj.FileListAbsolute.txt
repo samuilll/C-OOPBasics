@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\bin\Debug\netcoreapp2.0\Task12Google.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\bin\Debug\netcoreapp2.0\Task12Google.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\bin\Debug\netcoreapp2.0\Task12Google.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\bin\Debug\netcoreapp2.0\Task12Google.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\bin\Debug\netcoreapp2.0\Task12Google.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\obj\Debug\netcoreapp2.0\Task12Google.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\obj\Debug\netcoreapp2.0\Task12Google.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\obj\Debug\netcoreapp2.0\Task12Google.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\obj\Debug\netcoreapp2.0\Task12Google.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\obj\Debug\netcoreapp2.0\Task12Google.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task12Google\obj\Debug\netcoreapp2.0\Task12Google.csprojResolveAssemblyReference.cache

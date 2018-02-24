@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\bin\Debug\netcoreapp2.0\Task03ManKind.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\bin\Debug\netcoreapp2.0\Task03ManKind.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\bin\Debug\netcoreapp2.0\Task03ManKind.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\bin\Debug\netcoreapp2.0\Task03ManKind.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\bin\Debug\netcoreapp2.0\Task03ManKind.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\obj\Debug\netcoreapp2.0\Task03ManKind.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\obj\Debug\netcoreapp2.0\Task03ManKind.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\obj\Debug\netcoreapp2.0\Task03ManKind.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\obj\Debug\netcoreapp2.0\Task03ManKind.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\obj\Debug\netcoreapp2.0\Task03ManKind.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task03ManKind\obj\Debug\netcoreapp2.0\Task03ManKind.pdb

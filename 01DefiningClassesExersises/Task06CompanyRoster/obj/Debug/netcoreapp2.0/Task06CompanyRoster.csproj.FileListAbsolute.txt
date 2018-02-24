@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\bin\Debug\netcoreapp2.0\Task06CompanyRoster.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\bin\Debug\netcoreapp2.0\Task06CompanyRoster.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\bin\Debug\netcoreapp2.0\Task06CompanyRoster.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\bin\Debug\netcoreapp2.0\Task06CompanyRoster.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\bin\Debug\netcoreapp2.0\Task06CompanyRoster.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\obj\Debug\netcoreapp2.0\Task06CompanyRoster.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\obj\Debug\netcoreapp2.0\Task06CompanyRoster.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\obj\Debug\netcoreapp2.0\Task06CompanyRoster.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\obj\Debug\netcoreapp2.0\Task06CompanyRoster.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task06CompanyRoster\obj\Debug\netcoreapp2.0\Task06CompanyRoster.pdb

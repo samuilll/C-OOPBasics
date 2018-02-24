@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\bin\Debug\netcoreapp2.0\Task01.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\bin\Debug\netcoreapp2.0\Task01.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\bin\Debug\netcoreapp2.0\Task01.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\bin\Debug\netcoreapp2.0\Task01.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\bin\Debug\netcoreapp2.0\Task01.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\obj\Debug\netcoreapp2.0\Task01.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\obj\Debug\netcoreapp2.0\Task01.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\obj\Debug\netcoreapp2.0\Task01.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\obj\Debug\netcoreapp2.0\Task01.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\obj\Debug\netcoreapp2.0\Task01.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task01\obj\Debug\netcoreapp2.0\Task01.pdb

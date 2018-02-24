@@ -1,0 +1,7 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\bin\Debug\Task01Pesron.exe.config
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\bin\Debug\Task01Pesron.exe
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\bin\Debug\Task01Pesron.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\obj\Debug\Task01Pesron.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\obj\Debug\Task01Pesron.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\obj\Debug\Task01Pesron.exe
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01Pesron\obj\Debug\Task01Pesron.pdb

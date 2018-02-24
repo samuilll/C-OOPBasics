@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\bin\Debug\netcoreapp2.0\Task13FamilyTree.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\bin\Debug\netcoreapp2.0\Task13FamilyTree.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\bin\Debug\netcoreapp2.0\Task13FamilyTree.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\bin\Debug\netcoreapp2.0\Task13FamilyTree.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\bin\Debug\netcoreapp2.0\Task13FamilyTree.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\obj\Debug\netcoreapp2.0\Task13FamilyTree.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\obj\Debug\netcoreapp2.0\Task13FamilyTree.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\obj\Debug\netcoreapp2.0\Task13FamilyTree.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\obj\Debug\netcoreapp2.0\Task13FamilyTree.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\obj\Debug\netcoreapp2.0\Task13FamilyTree.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task13FamilyTree\obj\Debug\netcoreapp2.0\Task13FamilyTree.pdb

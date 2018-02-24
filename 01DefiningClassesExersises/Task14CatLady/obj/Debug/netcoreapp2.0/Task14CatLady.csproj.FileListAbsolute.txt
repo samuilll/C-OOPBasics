@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\bin\Debug\netcoreapp2.0\Task14CatLady.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\bin\Debug\netcoreapp2.0\Task14CatLady.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\bin\Debug\netcoreapp2.0\Task14CatLady.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\bin\Debug\netcoreapp2.0\Task14CatLady.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\bin\Debug\netcoreapp2.0\Task14CatLady.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\obj\Debug\netcoreapp2.0\Task14CatLady.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\obj\Debug\netcoreapp2.0\Task14CatLady.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\obj\Debug\netcoreapp2.0\Task14CatLady.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\obj\Debug\netcoreapp2.0\Task14CatLady.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\obj\Debug\netcoreapp2.0\Task14CatLady.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task14CatLady\obj\Debug\netcoreapp2.0\Task14CatLady.pdb

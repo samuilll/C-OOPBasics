@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\bin\Debug\netcoreapp2.0\Task11PokemonTrainer.deps.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\bin\Debug\netcoreapp2.0\Task11PokemonTrainer.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\bin\Debug\netcoreapp2.0\Task11PokemonTrainer.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\bin\Debug\netcoreapp2.0\Task11PokemonTrainer.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\bin\Debug\netcoreapp2.0\Task11PokemonTrainer.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\obj\Debug\netcoreapp2.0\Task11PokemonTrainer.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\obj\Debug\netcoreapp2.0\Task11PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\obj\Debug\netcoreapp2.0\Task11PokemonTrainer.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\obj\Debug\netcoreapp2.0\Task11PokemonTrainer.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\obj\Debug\netcoreapp2.0\Task11PokemonTrainer.dll
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task11PokemonTrainer\obj\Debug\netcoreapp2.0\Task11PokemonTrainer.pdb

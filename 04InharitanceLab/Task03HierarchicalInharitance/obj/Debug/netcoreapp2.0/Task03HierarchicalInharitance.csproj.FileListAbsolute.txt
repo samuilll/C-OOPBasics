@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\bin\Debug\netcoreapp2.0\Task03HierarchicalInharitance.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\bin\Debug\netcoreapp2.0\Task03HierarchicalInharitance.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\bin\Debug\netcoreapp2.0\Task03HierarchicalInharitance.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\bin\Debug\netcoreapp2.0\Task03HierarchicalInharitance.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\bin\Debug\netcoreapp2.0\Task03HierarchicalInharitance.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\obj\Debug\netcoreapp2.0\Task03HierarchicalInharitance.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\obj\Debug\netcoreapp2.0\Task03HierarchicalInharitance.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\obj\Debug\netcoreapp2.0\Task03HierarchicalInharitance.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\obj\Debug\netcoreapp2.0\Task03HierarchicalInharitance.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task03HierarchicalInharitance\obj\Debug\netcoreapp2.0\Task03HierarchicalInharitance.pdb

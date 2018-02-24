@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\bin\Debug\netcoreapp2.0\Task01Persons.deps.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\bin\Debug\netcoreapp2.0\Task01Persons.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\bin\Debug\netcoreapp2.0\Task01Persons.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\bin\Debug\netcoreapp2.0\Task01Persons.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\bin\Debug\netcoreapp2.0\Task01Persons.pdb
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\obj\Debug\netcoreapp2.0\Task01Persons.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\obj\Debug\netcoreapp2.0\Task01Persons.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\obj\Debug\netcoreapp2.0\Task01Persons.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\obj\Debug\netcoreapp2.0\Task01Persons.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\obj\Debug\netcoreapp2.0\Task01Persons.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task01Persons\obj\Debug\netcoreapp2.0\Task01Persons.pdb

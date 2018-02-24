@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\bin\Debug\netcoreapp2.0\Task05PizzaCalories.deps.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\bin\Debug\netcoreapp2.0\Task05PizzaCalories.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\bin\Debug\netcoreapp2.0\Task05PizzaCalories.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\bin\Debug\netcoreapp2.0\Task05PizzaCalories.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\bin\Debug\netcoreapp2.0\Task05PizzaCalories.pdb
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\obj\Debug\netcoreapp2.0\Task05PizzaCalories.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\obj\Debug\netcoreapp2.0\Task05PizzaCalories.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\obj\Debug\netcoreapp2.0\Task05PizzaCalories.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\obj\Debug\netcoreapp2.0\Task05PizzaCalories.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\obj\Debug\netcoreapp2.0\Task05PizzaCalories.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task05PizzaCalories\obj\Debug\netcoreapp2.0\Task05PizzaCalories.pdb

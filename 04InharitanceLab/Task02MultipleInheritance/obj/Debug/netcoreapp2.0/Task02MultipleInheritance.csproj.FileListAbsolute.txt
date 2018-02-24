@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\bin\Debug\netcoreapp2.0\Task02MultipleInheritance.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\bin\Debug\netcoreapp2.0\Task02MultipleInheritance.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\bin\Debug\netcoreapp2.0\Task02MultipleInheritance.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\bin\Debug\netcoreapp2.0\Task02MultipleInheritance.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\bin\Debug\netcoreapp2.0\Task02MultipleInheritance.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\obj\Debug\netcoreapp2.0\Task02MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\obj\Debug\netcoreapp2.0\Task02MultipleInheritance.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\obj\Debug\netcoreapp2.0\Task02MultipleInheritance.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\obj\Debug\netcoreapp2.0\Task02MultipleInheritance.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task02MultipleInheritance\obj\Debug\netcoreapp2.0\Task02MultipleInheritance.pdb

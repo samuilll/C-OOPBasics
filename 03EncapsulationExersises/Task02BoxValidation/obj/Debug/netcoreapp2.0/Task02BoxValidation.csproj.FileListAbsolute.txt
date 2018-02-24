@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\bin\Debug\netcoreapp2.0\Task02BoxValidation.deps.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\bin\Debug\netcoreapp2.0\Task02BoxValidation.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\bin\Debug\netcoreapp2.0\Task02BoxValidation.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\bin\Debug\netcoreapp2.0\Task02BoxValidation.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\bin\Debug\netcoreapp2.0\Task02BoxValidation.pdb
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\obj\Debug\netcoreapp2.0\Task02BoxValidation.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\obj\Debug\netcoreapp2.0\Task02BoxValidation.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\obj\Debug\netcoreapp2.0\Task02BoxValidation.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\obj\Debug\netcoreapp2.0\Task02BoxValidation.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task02BoxValidation\obj\Debug\netcoreapp2.0\Task02BoxValidation.pdb

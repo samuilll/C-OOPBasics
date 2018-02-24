@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\bin\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\bin\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\bin\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\bin\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\bin\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\obj\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\obj\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\obj\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\obj\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\obj\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task01OnlineRadioDatabase\obj\Debug\netcoreapp2.0\Task01OnlineRadioDatabase.pdb

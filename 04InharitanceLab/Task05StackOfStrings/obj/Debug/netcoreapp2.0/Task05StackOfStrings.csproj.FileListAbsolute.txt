@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\bin\Debug\netcoreapp2.0\Task05StackOfStrings.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\bin\Debug\netcoreapp2.0\Task05StackOfStrings.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\bin\Debug\netcoreapp2.0\Task05StackOfStrings.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\bin\Debug\netcoreapp2.0\Task05StackOfStrings.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\bin\Debug\netcoreapp2.0\Task05StackOfStrings.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\obj\Debug\netcoreapp2.0\Task05StackOfStrings.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\obj\Debug\netcoreapp2.0\Task05StackOfStrings.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\obj\Debug\netcoreapp2.0\Task05StackOfStrings.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\obj\Debug\netcoreapp2.0\Task05StackOfStrings.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\obj\Debug\netcoreapp2.0\Task05StackOfStrings.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task05StackOfStrings\obj\Debug\netcoreapp2.0\Task05StackOfStrings.pdb

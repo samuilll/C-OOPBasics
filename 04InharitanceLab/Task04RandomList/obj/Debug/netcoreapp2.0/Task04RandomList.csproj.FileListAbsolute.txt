@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\bin\Debug\netcoreapp2.0\Task04RandomList.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\bin\Debug\netcoreapp2.0\Task04RandomList.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\bin\Debug\netcoreapp2.0\Task04RandomList.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\bin\Debug\netcoreapp2.0\Task04RandomList.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\bin\Debug\netcoreapp2.0\Task04RandomList.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\obj\Debug\netcoreapp2.0\Task04RandomList.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\obj\Debug\netcoreapp2.0\Task04RandomList.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\obj\Debug\netcoreapp2.0\Task04RandomList.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\obj\Debug\netcoreapp2.0\Task04RandomList.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\obj\Debug\netcoreapp2.0\Task04RandomList.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceLab\Task04RandomList\obj\Debug\netcoreapp2.0\Task04RandomList.pdb

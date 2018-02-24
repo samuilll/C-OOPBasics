@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\bin\Debug\netcoreapp2.0\Task01ClassBox.deps.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\bin\Debug\netcoreapp2.0\Task01ClassBox.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\bin\Debug\netcoreapp2.0\Task01ClassBox.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\bin\Debug\netcoreapp2.0\Task01ClassBox.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\bin\Debug\netcoreapp2.0\Task01ClassBox.pdb
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\obj\Debug\netcoreapp2.0\Task01ClassBox.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\obj\Debug\netcoreapp2.0\Task01ClassBox.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\obj\Debug\netcoreapp2.0\Task01ClassBox.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\obj\Debug\netcoreapp2.0\Task01ClassBox.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\obj\Debug\netcoreapp2.0\Task01ClassBox.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationExersises\Task01ClassBox\obj\Debug\netcoreapp2.0\Task01ClassBox.pdb

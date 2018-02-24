@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\bin\Debug\netcoreapp2.0\Task05MordorsCruelPlan.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\bin\Debug\netcoreapp2.0\Task05MordorsCruelPlan.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\bin\Debug\netcoreapp2.0\Task05MordorsCruelPlan.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\bin\Debug\netcoreapp2.0\Task05MordorsCruelPlan.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\bin\Debug\netcoreapp2.0\Task05MordorsCruelPlan.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\obj\Debug\netcoreapp2.0\Task05MordorsCruelPlan.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\obj\Debug\netcoreapp2.0\Task05MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\obj\Debug\netcoreapp2.0\Task05MordorsCruelPlan.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\obj\Debug\netcoreapp2.0\Task05MordorsCruelPlan.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\obj\Debug\netcoreapp2.0\Task05MordorsCruelPlan.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task05MordorsCruelPlan\obj\Debug\netcoreapp2.0\Task05MordorsCruelPlan.pdb

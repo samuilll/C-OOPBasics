@@ -1,0 +1,6 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task15DrawingTool\bin\Debug\Task15DrawingTool.exe.config
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task15DrawingTool\bin\Debug\Task15DrawingTool.exe
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task15DrawingTool\bin\Debug\Task15DrawingTool.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task15DrawingTool\obj\Debug\Task15DrawingTool.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task15DrawingTool\obj\Debug\Task15DrawingTool.exe
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\Task15DrawingTool\obj\Debug\Task15DrawingTool.pdb

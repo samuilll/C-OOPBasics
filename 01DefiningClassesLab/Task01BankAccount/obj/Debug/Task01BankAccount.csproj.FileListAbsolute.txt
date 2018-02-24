@@ -1,0 +1,7 @@
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\bin\Debug\Task01BankAccount.exe.config
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\bin\Debug\Task01BankAccount.exe
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\bin\Debug\Task01BankAccount.pdb
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\obj\Debug\Task01BankAccount.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\obj\Debug\Task01BankAccount.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\obj\Debug\Task01BankAccount.exe
+C:\C-Fundamentals\C-OOPBasics\01DefiningClassesLab\Task01BankAccount\obj\Debug\Task01BankAccount.pdb

@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\bin\Debug\netcoreapp2.0\Task02Salary.deps.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\bin\Debug\netcoreapp2.0\Task02Salary.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\bin\Debug\netcoreapp2.0\Task02Salary.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\bin\Debug\netcoreapp2.0\Task02Salary.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\bin\Debug\netcoreapp2.0\Task02Salary.pdb
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\obj\Debug\netcoreapp2.0\Task02Salary.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\obj\Debug\netcoreapp2.0\Task02Salary.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\obj\Debug\netcoreapp2.0\Task02Salary.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\obj\Debug\netcoreapp2.0\Task02Salary.dll
+C:\C-Fundamentals\C-OOPBasics\03EncapsulationLab\Task02Salary\obj\Debug\netcoreapp2.0\Task02Salary.pdb
