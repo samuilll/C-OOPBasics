@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\bin\Debug\netcoreapp2.0\Task05BorderControl.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\bin\Debug\netcoreapp2.0\Task05BorderControl.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\bin\Debug\netcoreapp2.0\Task05BorderControl.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\bin\Debug\netcoreapp2.0\Task05BorderControl.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\bin\Debug\netcoreapp2.0\Task05BorderControl.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\obj\Debug\netcoreapp2.0\Task05BorderControl.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\obj\Debug\netcoreapp2.0\Task05BorderControl.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\obj\Debug\netcoreapp2.0\Task05BorderControl.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\obj\Debug\netcoreapp2.0\Task05BorderControl.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\obj\Debug\netcoreapp2.0\Task05BorderControl.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task05BorderControl\obj\Debug\netcoreapp2.0\Task05BorderControl.pdb

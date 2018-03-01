@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\bin\Debug\netcoreapp2.0\Task01Shapes.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\bin\Debug\netcoreapp2.0\Task01Shapes.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\bin\Debug\netcoreapp2.0\Task01Shapes.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\bin\Debug\netcoreapp2.0\Task01Shapes.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\bin\Debug\netcoreapp2.0\Task01Shapes.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\obj\Debug\netcoreapp2.0\Task01Shapes.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\obj\Debug\netcoreapp2.0\Task01Shapes.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\obj\Debug\netcoreapp2.0\Task01Shapes.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\obj\Debug\netcoreapp2.0\Task01Shapes.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\obj\Debug\netcoreapp2.0\Task01Shapes.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task01Shapes\obj\Debug\netcoreapp2.0\Task01Shapes.pdb

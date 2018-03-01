@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\bin\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\bin\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\bin\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\bin\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\bin\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\obj\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\obj\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\obj\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\obj\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\obj\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task01DefineanInterfaceIPerson\obj\Debug\netcoreapp2.0\Task01DefineanInterfaceIPerson.pdb

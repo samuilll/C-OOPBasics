@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\bin\Debug\netcoreapp2.0\Task08MilitaryElit.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\bin\Debug\netcoreapp2.0\Task08MilitaryElit.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\bin\Debug\netcoreapp2.0\Task08MilitaryElit.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\bin\Debug\netcoreapp2.0\Task08MilitaryElit.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\bin\Debug\netcoreapp2.0\Task08MilitaryElit.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\obj\Debug\netcoreapp2.0\Task08MilitaryElit.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\obj\Debug\netcoreapp2.0\Task08MilitaryElit.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\obj\Debug\netcoreapp2.0\Task08MilitaryElit.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\obj\Debug\netcoreapp2.0\Task08MilitaryElit.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\obj\Debug\netcoreapp2.0\Task08MilitaryElit.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task08MilitaryElit\obj\Debug\netcoreapp2.0\Task08MilitaryElit.pdb

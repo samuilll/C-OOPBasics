@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\bin\Debug\netcoreapp2.0\Task06Animals.deps.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\bin\Debug\netcoreapp2.0\Task06Animals.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\bin\Debug\netcoreapp2.0\Task06Animals.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\bin\Debug\netcoreapp2.0\Task06Animals.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\bin\Debug\netcoreapp2.0\Task06Animals.pdb
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\obj\Debug\netcoreapp2.0\Task06Animals.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\obj\Debug\netcoreapp2.0\Task06Animals.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\obj\Debug\netcoreapp2.0\Task06Animals.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\obj\Debug\netcoreapp2.0\Task06Animals.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\obj\Debug\netcoreapp2.0\Task06Animals.dll
+C:\C-Fundamentals\C-OOPBasics\04InharitanceExersises\Task06Animals\obj\Debug\netcoreapp2.0\Task06Animals.pdb

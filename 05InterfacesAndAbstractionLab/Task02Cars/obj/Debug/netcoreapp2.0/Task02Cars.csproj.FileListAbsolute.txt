@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\bin\Debug\netcoreapp2.0\Task02Cars.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\bin\Debug\netcoreapp2.0\Task02Cars.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\bin\Debug\netcoreapp2.0\Task02Cars.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\bin\Debug\netcoreapp2.0\Task02Cars.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\bin\Debug\netcoreapp2.0\Task02Cars.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\obj\Debug\netcoreapp2.0\Task02Cars.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\obj\Debug\netcoreapp2.0\Task02Cars.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\obj\Debug\netcoreapp2.0\Task02Cars.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\obj\Debug\netcoreapp2.0\Task02Cars.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesAndAbstractionLab\Task02Cars\obj\Debug\netcoreapp2.0\Task02Cars.pdb

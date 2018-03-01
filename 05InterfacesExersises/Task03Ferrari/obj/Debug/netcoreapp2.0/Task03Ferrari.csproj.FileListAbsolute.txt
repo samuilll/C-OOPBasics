@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\bin\Debug\netcoreapp2.0\Task03Ferrari.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\bin\Debug\netcoreapp2.0\Task03Ferrari.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\bin\Debug\netcoreapp2.0\Task03Ferrari.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\bin\Debug\netcoreapp2.0\Task03Ferrari.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\bin\Debug\netcoreapp2.0\Task03Ferrari.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\obj\Debug\netcoreapp2.0\Task03Ferrari.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\obj\Debug\netcoreapp2.0\Task03Ferrari.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\obj\Debug\netcoreapp2.0\Task03Ferrari.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\obj\Debug\netcoreapp2.0\Task03Ferrari.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\obj\Debug\netcoreapp2.0\Task03Ferrari.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Ferrari\obj\Debug\netcoreapp2.0\Task03Ferrari.pdb

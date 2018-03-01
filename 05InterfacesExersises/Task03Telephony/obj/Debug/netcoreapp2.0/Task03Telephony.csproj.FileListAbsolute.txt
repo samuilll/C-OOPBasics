@@ -1,0 +1,10 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\bin\Debug\netcoreapp2.0\Task03Telephony.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\bin\Debug\netcoreapp2.0\Task03Telephony.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\bin\Debug\netcoreapp2.0\Task03Telephony.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\bin\Debug\netcoreapp2.0\Task03Telephony.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\bin\Debug\netcoreapp2.0\Task03Telephony.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\obj\Debug\netcoreapp2.0\Task03Telephony.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\obj\Debug\netcoreapp2.0\Task03Telephony.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\obj\Debug\netcoreapp2.0\Task03Telephony.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\obj\Debug\netcoreapp2.0\Task03Telephony.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task03Telephony\obj\Debug\netcoreapp2.0\Task03Telephony.pdb

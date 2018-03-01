@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\bin\Debug\netcoreapp2.0\Task06BirthdayCelebrations.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\bin\Debug\netcoreapp2.0\Task06BirthdayCelebrations.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\bin\Debug\netcoreapp2.0\Task06BirthdayCelebrations.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\bin\Debug\netcoreapp2.0\Task06BirthdayCelebrations.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\bin\Debug\netcoreapp2.0\Task06BirthdayCelebrations.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\obj\Debug\netcoreapp2.0\Task06BirthdayCelebrations.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\obj\Debug\netcoreapp2.0\Task06BirthdayCelebrations.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\obj\Debug\netcoreapp2.0\Task06BirthdayCelebrations.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\obj\Debug\netcoreapp2.0\Task06BirthdayCelebrations.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\obj\Debug\netcoreapp2.0\Task06BirthdayCelebrations.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task06BirthdayCelebrations\obj\Debug\netcoreapp2.0\Task06BirthdayCelebrations.pdb

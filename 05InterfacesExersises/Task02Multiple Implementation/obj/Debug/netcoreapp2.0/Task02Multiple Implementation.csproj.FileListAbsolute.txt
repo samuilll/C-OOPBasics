@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\bin\Debug\netcoreapp2.0\Task02Multiple Implementation.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\bin\Debug\netcoreapp2.0\Task02Multiple Implementation.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\bin\Debug\netcoreapp2.0\Task02Multiple Implementation.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\bin\Debug\netcoreapp2.0\Task02Multiple Implementation.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\bin\Debug\netcoreapp2.0\Task02Multiple Implementation.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\obj\Debug\netcoreapp2.0\Task02Multiple Implementation.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\obj\Debug\netcoreapp2.0\Task02Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\obj\Debug\netcoreapp2.0\Task02Multiple Implementation.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\obj\Debug\netcoreapp2.0\Task02Multiple Implementation.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\obj\Debug\netcoreapp2.0\Task02Multiple Implementation.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task02Multiple Implementation\obj\Debug\netcoreapp2.0\Task02Multiple Implementation.pdb
