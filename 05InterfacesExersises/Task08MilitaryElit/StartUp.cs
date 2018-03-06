@@ -11,7 +11,6 @@ class StartUp
 
         PrintSoldiers(soldiers);
     }
-
     private static void PrintSoldiers(List<Soldier> soldiers)
     {
         foreach (var soldier in soldiers)

@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\bin\Debug\netcoreapp2.0\Task10ExplicitInterfaces.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\bin\Debug\netcoreapp2.0\Task10ExplicitInterfaces.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\bin\Debug\netcoreapp2.0\Task10ExplicitInterfaces.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\bin\Debug\netcoreapp2.0\Task10ExplicitInterfaces.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\bin\Debug\netcoreapp2.0\Task10ExplicitInterfaces.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\obj\Debug\netcoreapp2.0\Task10ExplicitInterfaces.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\obj\Debug\netcoreapp2.0\Task10ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\obj\Debug\netcoreapp2.0\Task10ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\obj\Debug\netcoreapp2.0\Task10ExplicitInterfaces.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\obj\Debug\netcoreapp2.0\Task10ExplicitInterfaces.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task10ExplicitInterfaces\obj\Debug\netcoreapp2.0\Task10ExplicitInterfaces.pdb

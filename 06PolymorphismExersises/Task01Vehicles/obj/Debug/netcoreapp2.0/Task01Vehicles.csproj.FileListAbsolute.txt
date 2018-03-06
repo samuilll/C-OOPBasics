@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\bin\Debug\netcoreapp2.0\Task01Vehicles.deps.json
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\bin\Debug\netcoreapp2.0\Task01Vehicles.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\bin\Debug\netcoreapp2.0\Task01Vehicles.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\bin\Debug\netcoreapp2.0\Task01Vehicles.dll
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\bin\Debug\netcoreapp2.0\Task01Vehicles.pdb
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\obj\Debug\netcoreapp2.0\Task01Vehicles.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\obj\Debug\netcoreapp2.0\Task01Vehicles.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\obj\Debug\netcoreapp2.0\Task01Vehicles.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\obj\Debug\netcoreapp2.0\Task01Vehicles.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\obj\Debug\netcoreapp2.0\Task01Vehicles.dll
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismExersises\Task01Vehicles\obj\Debug\netcoreapp2.0\Task01Vehicles.pdb

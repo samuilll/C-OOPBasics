@@ -21,7 +21,7 @@ public class SpecialisedSoldier:Private,ISpecializedSoldier
 
        
 
-        public SpecialisedSoldier(int id, string firstName, string lastName, double salary,string corps) : base(id, firstName, lastName, salary)
+        protected SpecialisedSoldier(int id, string firstName, string lastName, double salary,string corps) : base(id, firstName, lastName, salary)
         {
             this.Corps = corps;
         }

@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\bin\Debug\netcoreapp2.0\Task03Shapes.deps.json
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\bin\Debug\netcoreapp2.0\Task03Shapes.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\bin\Debug\netcoreapp2.0\Task03Shapes.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\bin\Debug\netcoreapp2.0\Task03Shapes.dll
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\bin\Debug\netcoreapp2.0\Task03Shapes.pdb
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\obj\Debug\netcoreapp2.0\Task03Shapes.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\obj\Debug\netcoreapp2.0\Task03Shapes.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\obj\Debug\netcoreapp2.0\Task03Shapes.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\obj\Debug\netcoreapp2.0\Task03Shapes.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\obj\Debug\netcoreapp2.0\Task03Shapes.dll
+C:\C-Fundamentals\C-OOPBasics\06PolymorphismLab\Task03Shapes\obj\Debug\netcoreapp2.0\Task03Shapes.pdb

@@ -1,0 +1,11 @@
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\bin\Debug\netcoreapp2.0\Task09CollectionHierarchy.deps.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\bin\Debug\netcoreapp2.0\Task09CollectionHierarchy.runtimeconfig.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\bin\Debug\netcoreapp2.0\Task09CollectionHierarchy.runtimeconfig.dev.json
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\bin\Debug\netcoreapp2.0\Task09CollectionHierarchy.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\bin\Debug\netcoreapp2.0\Task09CollectionHierarchy.pdb
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\obj\Debug\netcoreapp2.0\Task09CollectionHierarchy.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\obj\Debug\netcoreapp2.0\Task09CollectionHierarchy.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\obj\Debug\netcoreapp2.0\Task09CollectionHierarchy.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\obj\Debug\netcoreapp2.0\Task09CollectionHierarchy.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\obj\Debug\netcoreapp2.0\Task09CollectionHierarchy.dll
+C:\C-Fundamentals\C-OOPBasics\05InterfacesExersises\Task09CollectionHierarchy\obj\Debug\netcoreapp2.0\Task09CollectionHierarchy.pdb
