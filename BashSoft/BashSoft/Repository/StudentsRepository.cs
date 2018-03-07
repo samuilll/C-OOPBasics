@@ -1,4 +1,5 @@
-﻿using BashSoft.Models;
+﻿using BashSoft.Exceptions;
+using BashSoft.Models;
 using BashSoft.Repository;
 using System;
 using System.Collections.Generic;
@@ -28,8 +29,7 @@ namespace BashSoft
         {
             if (this.IsDataInitialized)
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.DataAlreadyInitializedExeption);
-                return;
+                throw new ArgumentNullException(ExceptionMessages.DataAlreadyInitializedExeption);
             }
 
             this.students = new Dictionary<string, Student>();
@@ -42,8 +42,7 @@ namespace BashSoft
         {
             if (!this.IsDataInitialized)
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.DataNotInitializedExceptionMessage);
-                return;
+                throw new ArgumentException(ExceptionMessages.DataNotInitializedExceptionMessage);
             }
             this.students = null;
             this.courses = null;
@@ -102,13 +101,19 @@ namespace BashSoft
                         catch (FormatException fex)
                         {
                             OutputWriter.DisplayException(fex.Message + $"at line: {line}");
+                            continue;
+                        }
+                        catch (Exception ex)
+                        {
+                            OutputWriter.DisplayException(ex.Message);
+                            continue;
                         }
                     }
                 }
             }
             else
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
+                throw new InvalidPathException();
             }
 
             IsDataInitialized = true;
@@ -125,12 +130,12 @@ namespace BashSoft
                 }
                 else
                 {
-                    OutputWriter.WriteMessageOnNewLine(ExceptionMessages.InexistingCourseInDataBase);
+                    OutputWriter.DisplayException(ExceptionMessages.InexistingCourseInDataBase);
                 }
             }
             else
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.DataNotInitializedExceptionMessage);
+                OutputWriter.DisplayException(ExceptionMessages.DataNotInitializedExceptionMessage);
             }
 
             return false;
@@ -144,10 +149,8 @@ namespace BashSoft
             }
             else
             {
-                OutputWriter.WriteMessageOnNewLine(ExceptionMessages.InexistingStudentInDataBase);
-
+                throw new ArgumentException(ExceptionMessages.InexistingStudentInDataBase);
             }
-            return false;
         }
 
         public void GetStudentScoresFromTheCourse(string courseName, string studentName)

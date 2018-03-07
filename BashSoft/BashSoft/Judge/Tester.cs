@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace BashSoft.Judge
 {
-   public  class Tester
+    public class Tester
     {
-      public   void CompareContent(string userOutputPath, string expectedOutpudPath)
+        public void CompareContent(string userOutputPath, string expectedOutpudPath)
         {
             OutputWriter.WriteMessageOnNewLine("Reading files...");
 
@@ -26,9 +26,9 @@ namespace BashSoft.Judge
                 PrintOutput(mismatches, hasMismatch, mismatchPath);
                 OutputWriter.WriteMessageOnNewLine("File read!");
             }
-            catch (DirectoryNotFoundException dnfe)
+            catch (DirectoryNotFoundException)
             {
-                OutputWriter.DisplayException(dnfe.Message);
+                OutputWriter.DisplayException(ExceptionMessages.InvalidPath);
             }
             catch (FileNotFoundException)
             {
@@ -37,7 +37,7 @@ namespace BashSoft.Judge
 
         }
 
-        private  void PrintOutput(string[] mismatches, bool hasMismatch, string mismatchPath)
+        private void PrintOutput(string[] mismatches, bool hasMismatch, string mismatchPath)
         {
             if (hasMismatch)
             {
@@ -45,21 +45,16 @@ namespace BashSoft.Judge
                 {
                     OutputWriter.WriteMessageOnNewLine(line);
                 }
-                try
-                {
-                    File.AppendAllLines(mismatchPath, mismatches);
-                }
-                catch (DirectoryNotFoundException)
-                {
-                    throw new DirectoryNotFoundException(ExceptionMessages.InvalidPath);
-                }
+
+                File.AppendAllLines(mismatchPath, mismatches);
+
                 return;
             }
 
             OutputWriter.WriteMessageOnNewLine("Files are identical. There are no mismatches.");
         }
 
-        private  string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatch)
+        private string[] GetLinesWithPossibleMismatches(string[] actualOutputLines, string[] expectedOutputLines, out bool hasMismatch)
         {
             hasMismatch = false;
             string output = string.Empty;
@@ -74,7 +69,7 @@ namespace BashSoft.Judge
                 OutputWriter.DisplayException(ExceptionMessages.ComparisonOfFilesWithDifferentSizes);
             }
 
-            for (int index = 0; index < actualOutputLines.Length && index<expectedOutputLines.Length; index++)
+            for (int index = 0; index < actualOutputLines.Length && index < expectedOutputLines.Length; index++)
             {
                 string actualLine = actualOutputLines[index];
                 string expectedLine = expectedOutputLines[index];
@@ -95,7 +90,7 @@ namespace BashSoft.Judge
             return mismatches;
         }
 
-        public  string GetMismatchPath(string expectedOutpudPath)
+        public string GetMismatchPath(string expectedOutpudPath)
         {
             int indexOf = expectedOutpudPath.LastIndexOf("\\");
             string derictoryPath = expectedOutpudPath.Substring(0, indexOf);

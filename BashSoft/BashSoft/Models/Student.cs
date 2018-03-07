@@ -1,4 +1,5 @@
-﻿using BashSoft.Judge;
+﻿using BashSoft.Exceptions;
+using BashSoft.Judge;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,22 +19,22 @@ namespace BashSoft.Models
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentNullException(nameof(this.userName), ExceptionMessages.NullOrEmptyValue);
+                    throw new InvalidStringException();
                 }
                 this.userName = value;
             }
         }
 
-        private  Dictionary<string, Course> enrolledCourses;
+        private Dictionary<string, Course> enrolledCourses;
 
         public IReadOnlyDictionary<string, Course> EnrolledCourses
         {
-            get { return  this.enrolledCourses; }
+            get { return this.enrolledCourses; }
         }
 
         private Dictionary<string, double> marksByCourseName;
 
-        public IReadOnlyDictionary<string,double> MarksByCourseName
+        public IReadOnlyDictionary<string, double> MarksByCourseName
         {
             get { return this.marksByCourseName; }
         }
@@ -49,10 +50,7 @@ namespace BashSoft.Models
         {
             if (this.enrolledCourses.ContainsKey(course.Name))
             {
-                OutputWriter.DisplayException(string.Format(
-                    ExceptionMessages.StudentAlreadyEnrolledInGivenCourse,
-                    this.userName, course.Name));
-                return;
+                throw new DuplicateEntryInStructureException(this.UserName, course.Name);
             }
 
             this.enrolledCourses.Add(course.Name, course);
@@ -62,14 +60,12 @@ namespace BashSoft.Models
         {
             if (!this.enrolledCourses.ContainsKey(courseName))
             {
-                OutputWriter.DisplayException(ExceptionMessages.NotEnrolledInCourse);
-                return;
+                throw new CourseNotFoundException();
             }
 
             if (scores.Length > Course.NumberOfTasksOnExam)
             {
-                OutputWriter.DisplayException(ExceptionMessages.InvalidNumberOfScores);
-                return;
+                throw new ArgumentException(ExceptionMessages.InvalidNumberOfScores);
             }
 
             this.marksByCourseName.Add(courseName, CalculateMark(scores));
