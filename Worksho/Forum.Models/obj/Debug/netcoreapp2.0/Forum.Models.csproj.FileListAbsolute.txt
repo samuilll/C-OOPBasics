@@ -1,0 +1,9 @@
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.deps.json
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.dll
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\bin\Debug\netcoreapp2.0\Forum.Models.pdb
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csprojResolveAssemblyReference.cache
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.csproj.CoreCompileInputs.cache
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfoInputs.cache
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.AssemblyInfo.cs
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.dll
+C:\C-Fundamentals\C-OOPBasics\Worksho\Forum.Models\obj\Debug\netcoreapp2.0\Forum.Models.pdb
