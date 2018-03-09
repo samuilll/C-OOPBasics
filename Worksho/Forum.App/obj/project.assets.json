@@ -196,6 +196,30 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Forum.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Forum.Models": "1.0.0",
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Forum.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.Data.dll": {}
+        }
+      },
+      "Forum.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Forum.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forum.Models.dll": {}
+        }
       }
     }
   },
@@ -656,10 +680,22 @@
         "netstandard.library.2.0.0.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Forum.Data/1.0.0": {
+      "type": "project",
+      "path": "../Forum.Data/Forum.Data.csproj",
+      "msbuildProject": "../Forum.Data/Forum.Data.csproj"
+    },
+    "Forum.Models/1.0.0": {
+      "type": "project",
+      "path": "../Forum.Models/Forum.Models.csproj",
+      "msbuildProject": "../Forum.Models/Forum.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "Forum.Data >= 1.0.0",
+      "Forum.Models >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -696,7 +732,14 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Models\\Forum.Models.csproj": {
+              "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Models\\Forum.Models.csproj"
+            },
+            "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\Forum.Data.csproj": {
+              "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\Forum.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

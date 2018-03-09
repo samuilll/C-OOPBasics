@@ -97,12 +97,20 @@ namespace Forum.Data
                 var id = int.Parse(args[0]);
                 var userName = args[1];
                 var password = args[2];
-                var postIds = args[3]
-                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToArray();
+                User user = null;
+                if (args.Length==3)
+                {
+                    user = new User(id, userName, password);
+                }
+                else
+                {
+                    var postIds = args[3]
+                                       .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                                       .Select(int.Parse)
+                                       .ToArray();
+                    user = new User(id, userName, password,postIds);
 
-                User user = new User(id, userName,password, postIds);
+                }
                 users.Add(user);
             }
             return users;

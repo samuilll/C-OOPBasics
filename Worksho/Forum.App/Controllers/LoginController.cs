@@ -1,6 +1,8 @@
 ﻿namespace Forum.App.Controllers
 {
     using Forum.App.Controllers.Contracts;
+    using Forum.App.Servises;
+    using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
     using Forum.App.Views;
 
@@ -12,11 +14,11 @@
 
         public LogInController()
         {
-            this.ResetLogin(); 
+            this.ResetLogin();
         }
         private enum Command
         {
-            ReadUsername,ReadPassword,LogIn,back
+            ReadUsername, ReadPassword, LogIn, back
         }
 
         private void ResetLogin()
@@ -28,7 +30,26 @@
 
         public MenuState ExecuteCommand(int index)
         {
-            throw new System.NotImplementedException();
+            switch ((Command)index)
+            {
+                case Command.ReadUsername:
+                    this.ReadUsername();
+                    return MenuState.Login;
+                case Command.ReadPassword:
+                    this.ReadPassword();
+                    return MenuState.Login;
+                case Command.LogIn:
+                    bool loggedIn = UserServise.TryLogInUser(this.Username, this.Password);
+                    if (loggedIn)
+                    {
+                        return MenuState.SuccessfulLogIn;
+                    }
+                    this.Error = true;
+                    return MenuState.Error;
+                case Command.back:
+                    return MenuState.Back;
+            }
+            throw new System.InvalidOperationException();
         }
 
         public IView GetView(string userName)
@@ -38,12 +59,14 @@
 
         public void ReadPassword()
         {
-            throw new System.NotImplementedException();
+            this.Password = ForumViewEngine.ReadRow();
+            ForumViewEngine.HideCursor();
         }
 
         public void ReadUsername()
         {
-            throw new System.NotImplementedException();
+            this.Username = ForumViewEngine.ReadRow();
+            ForumViewEngine.HideCursor();
         }
     }
 }

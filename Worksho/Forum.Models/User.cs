@@ -14,6 +14,13 @@ namespace Forum.Models
             this.Password = password;
             this.Posts = new List<int>(posts);
         }
+        public User(int id, string userName, string password)
+        {
+            this.Id = id;
+            this.UserName = userName;
+            this.Password = password;
+            this.Posts = new List<int>();
+        }
 
         private int id;
 
