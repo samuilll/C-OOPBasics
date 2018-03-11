@@ -10,14 +10,14 @@ namespace Forum.Models
         public User(int id, string userName, string password, IEnumerable<int> posts)
         {
             this.Id = id;
-            this.UserName = userName;
+            this.Username = userName;
             this.Password = password;
             this.Posts = new List<int>(posts);
         }
         public User(int id, string userName, string password)
         {
             this.Id = id;
-            this.UserName = userName;
+            this.Username = userName;
             this.Password = password;
             this.Posts = new List<int>();
         }
@@ -32,7 +32,7 @@ namespace Forum.Models
 
         private string username;
 
-        public string UserName
+        public string Username
         {
             get { return username; }
             set { username = value; }

@@ -1,7 +1,7 @@
 ﻿namespace Forum.App.Controllers
 {
     using Forum.App.Controllers.Contracts;
-    using Forum.App.Servises;
+    using Forum.App.Services;
     using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
     using Forum.App.Views;
@@ -39,7 +39,7 @@
                     this.ReadPassword();
                     return MenuState.Login;
                 case Command.LogIn:
-                    bool loggedIn = UserServise.TryLogInUser(this.Username, this.Password);
+                    bool loggedIn = UserService.TryLogInUser(this.Username, this.Password);
                     if (loggedIn)
                     {
                         return MenuState.SuccessfulLogIn;

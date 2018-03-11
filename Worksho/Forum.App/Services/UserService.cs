@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using static Forum.App.Controllers.SignUpController;
 
-namespace Forum.App.Servises
+namespace Forum.App.Services
 {
-   public static class UserServise
+   public static class UserService
     {
         public static object ForumData { get; private set; }
 
@@ -22,7 +22,7 @@ namespace Forum.App.Servises
 
             ForumData forumdata = new ForumData();
 
-            bool userExist = forumdata.Users.Any(u => u.UserName == username && u.Password == password);
+            bool userExist = forumdata.Users.Any(u => u.Username == username && u.Password == password);
 
             return userExist;
         }
@@ -39,7 +39,7 @@ namespace Forum.App.Servises
 
             ForumData forumData = new ForumData();
 
-            bool userAlreadyExist = forumData.Users.Any(u => u.UserName == username);
+            bool userAlreadyExist = forumData.Users.Any(u => u.Username == username);
 
             if (!userAlreadyExist)
             {
@@ -51,6 +51,22 @@ namespace Forum.App.Servises
             }
 
             return SignUpStatus.UsernameTakenError;
+        }
+
+        public static User GetUser(int userId)
+        {
+            ForumData forumData = new ForumData();
+
+            User user = forumData.Users.Find(u => u.Id == userId);
+
+            return user;
+        }
+
+        public static User GetUser(string userName,ForumData forumData)
+        {
+            User user = forumData.Users.Find(u => u.Username == userName);
+
+            return user;
         }
     }
 

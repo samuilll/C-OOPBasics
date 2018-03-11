@@ -7,12 +7,12 @@ using System.Text;
 
 namespace Forum.Data
 {
-   public class DataMapper
+    public class DataMapper
     {
 
-        private const string DATA_PATH = "Tester";
+        private const string DATA_PATH = "../../../../DATA/";
         private const string CONFIG_PATH = "config.ini";
-        private const string DEFAULT_CONFIG="users=users.csv\r\ncategories=categories.csv\r\nposts=posts.csv\r\nreplies=replies.csv";
+        private const string DEFAULT_CONFIG = "users=users.csv\r\ncategories=categories.csv\r\nposts=posts.csv\r\nreplies=replies.csv";
         private static readonly Dictionary<string, string> config;
 
         static DataMapper()
@@ -56,13 +56,17 @@ namespace Forum.Data
 
             foreach (var line in dataLines)
             {
-                var args = line.Split(";",StringSplitOptions.RemoveEmptyEntries);
+                var args = line.Split(";", StringSplitOptions.RemoveEmptyEntries);
                 var id = int.Parse(args[0]);
                 var name = args[1];
-                var postIds = args[2]
-                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToArray();
+                var postIds = new List<int>();
+                if (args.Length == 3)
+                {
+                    postIds = args[2]
+                  .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                  .Select(int.Parse)
+                  .ToList();
+                }
 
                 Category category = new Category(id, name, postIds);
                 categories.Add(category);
@@ -97,20 +101,16 @@ namespace Forum.Data
                 var id = int.Parse(args[0]);
                 var userName = args[1];
                 var password = args[2];
-                User user = null;
-                if (args.Length==3)
+                var postIds = new List<int>();
+                if (args.Length == 4)
                 {
-                    user = new User(id, userName, password);
+                    postIds = args[3]
+                          .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                          .Select(int.Parse)
+                          .ToList();
                 }
-                else
-                {
-                    var postIds = args[3]
-                                       .Split(',', StringSplitOptions.RemoveEmptyEntries)
-                                       .Select(int.Parse)
-                                       .ToArray();
-                    user = new User(id, userName, password,postIds);
 
-                }
+                User user = new User(id, userName, password, postIds);
                 users.Add(user);
             }
             return users;
@@ -124,7 +124,7 @@ namespace Forum.Data
                 const string userFormat = "{0};{1};{2};{3}";
                 string line = string.Format(userFormat,
                     user.Id,
-                    user.UserName,
+                    user.Username,
                     user.Password,
                     string.Join(",", user.Posts)
                     );
@@ -146,12 +146,16 @@ namespace Forum.Data
                 var content = args[2];
                 var categoryId = int.Parse(args[3]);
                 var authorId = int.Parse(args[4]);
-                var replies = args[5]
-                    .Split(',', StringSplitOptions.RemoveEmptyEntries)
-                    .Select(int.Parse)
-                    .ToArray();
+                List<int> replies = new List<int>();
+                if (args.Length == 6)
+                {
+                    replies = args[5]
+                   .Split(',', StringSplitOptions.RemoveEmptyEntries)
+                   .Select(int.Parse)
+                   .ToList();
+                }
 
-                Post post = new Post(id,title,content,categoryId ,authorId, replies);
+                Post post = new Post(id, title, content, categoryId, authorId, replies);
                 posts.Add(post);
             }
             return posts;
@@ -188,8 +192,8 @@ namespace Forum.Data
                 var content = args[1];
                 var authorId = int.Parse(args[2]);
                 var postId = int.Parse(args[3]);
-                   
-                Reply reply = new Reply(id, content, authorId,postId);
+
+                Reply reply = new Reply(id, content, authorId, postId);
                 replies.Add(reply);
             }
             return replies;
@@ -222,7 +226,7 @@ namespace Forum.Data
 
         private static void WriteLines(string path, string[] lines)
         {
-            File.WriteAllLines(path,lines);
+            File.WriteAllLines(path, lines);
         }
     }
 }

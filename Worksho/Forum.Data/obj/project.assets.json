@@ -685,15 +685,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\Forum.Data.csproj",
+      "projectUniqueName": "D:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\Forum.Data.csproj",
       "projectName": "Forum.Data",
-      "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\Forum.Data.csproj",
+      "projectPath": "D:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\Forum.Data.csproj",
       "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-      "outputPath": "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\obj\\",
+      "outputPath": "D:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
@@ -713,8 +710,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Models\\Forum.Models.csproj": {
-              "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Models\\Forum.Models.csproj"
+            "D:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Models\\Forum.Models.csproj": {
+              "projectPath": "D:\\C-Fundamentals\\C-OOPBasics\\Worksho\\Forum.Models\\Forum.Models.csproj"
             }
           }
         }

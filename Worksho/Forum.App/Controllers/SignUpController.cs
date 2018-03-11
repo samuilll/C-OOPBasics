@@ -2,7 +2,7 @@
 {
 	using Forum.App;
 	using Forum.App.Controllers.Contracts;
-    using Forum.App.Servises;
+    using Forum.App.Services;
     using Forum.App.UserInterface;
     using Forum.App.UserInterface.Contracts;
 
@@ -41,7 +41,7 @@
                     this.ReadPassword();
                     return MenuState.Signup;
                 case Command.SignUp:
-                    SignUpStatus signUp = UserServise.TrySignUpUser(this.Username, this.Password);
+                    SignUpStatus signUp = UserService.TrySignUpUser(this.Username, this.Password);
                     switch (signUp)
                     {
                         case SignUpStatus.Success:
