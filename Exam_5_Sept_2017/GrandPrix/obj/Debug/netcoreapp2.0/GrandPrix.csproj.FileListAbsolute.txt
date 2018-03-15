@@ -1,0 +1,11 @@
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+D:\C-Fundamentals\C-OOPBasics\Exam_5_Sept_2017\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb

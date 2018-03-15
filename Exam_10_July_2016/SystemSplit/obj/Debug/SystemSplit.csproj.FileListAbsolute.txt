@@ -1,0 +1,7 @@
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\bin\Debug\SystemSplit.exe.config
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\bin\Debug\SystemSplit.exe
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\bin\Debug\SystemSplit.pdb
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\obj\Debug\SystemSplit.csprojResolveAssemblyReference.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\obj\Debug\SystemSplit.csproj.CoreCompileInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\obj\Debug\SystemSplit.exe
+D:\C-Fundamentals\C-OOPBasics\Exam_10_July_2016\SystemSplit\obj\Debug\SystemSplit.pdb

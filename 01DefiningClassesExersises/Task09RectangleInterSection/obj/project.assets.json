@@ -669,15 +669,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task09RectangleInterSection\\Task09RectangleInterSection.csproj",
+      "projectUniqueName": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task09RectangleInterSection\\Task09RectangleInterSection.csproj",
       "projectName": "Task09RectangleInterSection",
-      "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task09RectangleInterSection\\Task09RectangleInterSection.csproj",
+      "projectPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task09RectangleInterSection\\Task09RectangleInterSection.csproj",
       "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-      "outputPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task09RectangleInterSection\\obj\\",
+      "outputPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task09RectangleInterSection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"

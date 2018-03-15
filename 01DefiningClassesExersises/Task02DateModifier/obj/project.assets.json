@@ -669,15 +669,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task02DateModifier\\Task02DateModifier.csproj",
+      "projectUniqueName": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task02DateModifier\\Task02DateModifier.csproj",
       "projectName": "Task02DateModifier",
-      "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task02DateModifier\\Task02DateModifier.csproj",
+      "projectPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task02DateModifier\\Task02DateModifier.csproj",
       "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-      "outputPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task02DateModifier\\obj\\",
+      "outputPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task02DateModifier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"

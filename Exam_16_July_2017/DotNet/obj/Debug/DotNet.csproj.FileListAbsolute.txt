@@ -1,0 +1,2 @@
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\DotNet\obj\Debug\DotNet.csprojResolveAssemblyReference.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\DotNet\obj\Debug\DotNet.csproj.CoreCompileInputs.cache

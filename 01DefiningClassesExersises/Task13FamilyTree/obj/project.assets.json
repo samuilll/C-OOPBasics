@@ -669,15 +669,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task13FamilyTree\\Task13FamilyTree.csproj",
+      "projectUniqueName": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task13FamilyTree\\Task13FamilyTree.csproj",
       "projectName": "Task13FamilyTree",
-      "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task13FamilyTree\\Task13FamilyTree.csproj",
+      "projectPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task13FamilyTree\\Task13FamilyTree.csproj",
       "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-      "outputPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task13FamilyTree\\obj\\",
+      "outputPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task13FamilyTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"

@@ -1,0 +1,11 @@
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

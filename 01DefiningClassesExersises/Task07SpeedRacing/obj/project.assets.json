@@ -669,15 +669,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task07SpeedRacing\\Task07SpeedRacing.csproj",
+      "projectUniqueName": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task07SpeedRacing\\Task07SpeedRacing.csproj",
       "projectName": "Task07SpeedRacing",
-      "projectPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task07SpeedRacing\\Task07SpeedRacing.csproj",
+      "projectPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task07SpeedRacing\\Task07SpeedRacing.csproj",
       "packagesPath": "C:\\Users\\Sami\\.nuget\\packages\\",
-      "outputPath": "C:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task07SpeedRacing\\obj\\",
+      "outputPath": "D:\\C-Fundamentals\\C-OOPBasics\\01DefiningClassesExersises\\Task07SpeedRacing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"

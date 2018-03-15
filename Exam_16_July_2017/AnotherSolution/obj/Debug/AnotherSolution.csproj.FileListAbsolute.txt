@@ -1,0 +1,7 @@
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\bin\Debug\AnotherSolution.exe.config
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\bin\Debug\AnotherSolution.exe
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\bin\Debug\AnotherSolution.pdb
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\obj\Debug\AnotherSolution.csprojResolveAssemblyReference.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\obj\Debug\AnotherSolution.csproj.CoreCompileInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\obj\Debug\AnotherSolution.exe
+D:\C-Fundamentals\C-OOPBasics\Exam_16_July_2017\AnotherSolution\obj\Debug\AnotherSolution.pdb
