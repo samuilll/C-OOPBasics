@@ -122,7 +122,7 @@ using System.Text;
         {
             double timeSpan = drivers[i + 1].TotalTime - drivers[i].TotalTime;
 
-            bool aggressiveCrashCheck = this.weather == "Foggy" && drivers[i].GetType().Name == "AgressiveDriver" && drivers[i].Car.Tyre.GetType().Name == "UltrasoftTyre" && timeSpan < 3;
+            bool aggressiveCrashCheck = this.weather == "Foggy" && drivers[i].GetType().Name == "AggressiveDriver" && drivers[i].Car.Tyre.GetType().Name == "UltrasoftTyre" && timeSpan < 3;
 
             bool enduranceCrashCheck = this.weather == "Rainy" && drivers[i].GetType().Name == "EnduranceDriver" && drivers[i].Car.Tyre.GetType().Name == "HardTyre" && timeSpan < 3;
 

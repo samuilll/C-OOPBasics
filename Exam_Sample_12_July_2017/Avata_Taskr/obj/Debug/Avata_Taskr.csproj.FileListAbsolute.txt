@@ -1,0 +1,7 @@
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\bin\Debug\Avata_Taskr.exe.config
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\bin\Debug\Avata_Taskr.exe
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\bin\Debug\Avata_Taskr.pdb
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\obj\Debug\Avata_Taskr.csprojResolveAssemblyReference.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\obj\Debug\Avata_Taskr.csproj.CoreCompileInputs.cache
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\obj\Debug\Avata_Taskr.exe
+D:\C-Fundamentals\C-OOPBasics\Exam_Sample_12_July_2017\Avata_Taskr\obj\Debug\Avata_Taskr.pdb
