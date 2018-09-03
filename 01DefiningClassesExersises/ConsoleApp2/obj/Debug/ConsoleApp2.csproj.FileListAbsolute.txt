@@ -1,7 +1,0 @@
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\bin\Debug\ConsoleApp2.exe
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\obj\Debug\ConsoleApp2.exe
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

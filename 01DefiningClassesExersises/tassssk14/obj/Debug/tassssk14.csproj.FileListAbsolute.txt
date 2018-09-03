@@ -1,7 +1,0 @@
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\bin\Debug\tassssk14.exe.config
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\bin\Debug\tassssk14.exe
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\bin\Debug\tassssk14.pdb
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\obj\Debug\tassssk14.csprojResolveAssemblyReference.cache
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\obj\Debug\tassssk14.csproj.CoreCompileInputs.cache
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\obj\Debug\tassssk14.exe
-C:\C-Fundamentals\C-OOPBasics\01DefiningClassesExersises\tassssk14\obj\Debug\tassssk14.pdb
